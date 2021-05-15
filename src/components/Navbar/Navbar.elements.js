@@ -129,7 +129,7 @@ export const NavBtnLink = styled(Link) `
   align-items: center; 
   text-decoration: none;
   padding: 8px 16px;
-  height: 100%;
+  width: 100%;
   height: 100%;
   border: none;
   outline: none;  

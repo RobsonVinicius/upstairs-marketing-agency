@@ -29,8 +29,9 @@ export const Button = styled.button `
   background: ${({primary}) => (primary ? '#FFC312' : '#F79F1F')};
   white-space: nowrap;
   padding: ${({big}) => (big ? '12px 64px' : '10px 20px')};
-  color: #fff;
+  color: #000;
   font-size: ${({fontBig}) => (fontBig ? '20px' : '16px')};
+  font-weight: 600;
   outline: none;
   cursor: pointer; 
 
