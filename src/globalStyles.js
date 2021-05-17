@@ -32,6 +32,7 @@ export const Button = styled.button `
   color: #000;
   font-size: ${({fontBig}) => (fontBig ? '20px' : '16px')};
   font-weight: 600;
+  border: none;
   outline: none;
   cursor: pointer; 
 

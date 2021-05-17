@@ -105,10 +105,11 @@ export const NavLinks = styled(Link) `
     padding: 2rem;
     width: 100%;
     display: table;
+    
 
     &:hover {
       color: #4b59f7;
-      transition: all 0.3 ease;
+      transition: all 0.3 ease;      
     }
   }
 `;
@@ -131,6 +132,6 @@ export const NavBtnLink = styled(Link) `
   padding: 8px 16px;
   width: 100%;
   height: 100%;
-  border: none;
-  outline: none;  
+  border: none !important;  
+  outline: none;    
 `
