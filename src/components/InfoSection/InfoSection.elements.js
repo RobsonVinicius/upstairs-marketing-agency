@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const InfoSec = styled.div `
   color: #fff;
   padding: 160px 0;
-  background: ${({ LightBg }) => (LightBg ? '#fff' : '#101522' )};
+  background: ${({ lightBg }) => (lightBg ? '#fff' : '#101522' )};
 `
 
 export const InfoRow = styled.div `
@@ -41,7 +41,7 @@ export const TextWrapper = styled.div `
 `
 
 export const TopLine = styled.div ` 
-  color: ${({lightTopLine}) => (lightTopLine ? '#a9b2c1' : '#4B59f7')};
+  color: ${({lightTopLine}) => (lightTopLine ? '#a9b2c1' : '#F79F1F')};
   font-size: 18px;
   line-height: 16px;
   letter-spacing: 1.4px;
@@ -52,7 +52,7 @@ export const Heading = styled.h1 `
   margin-bottom: 25px;
   font-size: 48px;
   line-height: 1.1;
-  color: ${({lightText}) => (lightText ? '#f7f8fa' : '1c2237')};
+  color: ${({lightText}) => (lightText ? '#f7f8fa' : '#1c2237')};
 `
 
 export const Subtitle = styled.p `
