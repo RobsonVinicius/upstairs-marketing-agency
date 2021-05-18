@@ -9,7 +9,7 @@ export const homeObjOne = {
   headline: 'Lead Generation Specialist for Online Business', 
   lightText: true, 
   topLine: 'Marketing Agency', 
-  img: require('../../images/scrum.svg'),
+  img: require('../../images/scrum.svg').default,
   alt: 'Image cade você?',
   start: ''
 }

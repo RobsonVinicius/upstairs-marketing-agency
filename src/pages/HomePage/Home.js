@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { homeObjOne } from './Data';
 import { InfoSection } from '../../components';
 
@@ -7,7 +7,7 @@ const Home = () => {
     <>
       <InfoSection {...homeObjOne} />
     </>
-  )
+  );
 }
 
-export default Home
+export default Home;
