@@ -52,12 +52,12 @@ export const homeObjFour = {
   imgStart: '',
   lightTopLine: true,
   lightTextDesc: true, 
-  buttonLabel: 'Get Started',
-  description: 'We help business owners increase their revenue. Our team of unique specialist can help you acheive your business goals', 
-  headline: 'Lead Generation Specialist for Online Business', 
+  buttonLabel: 'Sign Up Now',
+  description: 'You will never have to worry about your information getting leaked. Our team of security experts will ensure your records are kept safe.', 
+  headline: 'All your data is stored on our secure server', 
   lightText: true, 
-  topLine: 'Marketing Agency', 
-  img: require('../../images/header.svg').default,
+  topLine: 'Secure Database', 
+  img: require('../../images/server.svg').default,
   alt: 'Image Header',
   start: ''
 }
