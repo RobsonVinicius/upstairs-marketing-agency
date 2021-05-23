@@ -1,6 +1,6 @@
 import React from 'react';
 import { IconContext } from 'react-icons/lib';
-import { GiMetalHand, GiCrystalBars, GiCutDiamond } from 'react-icons/gi';
+import { GiBlackBar, GiCrystalBars, GiCutDiamond } from 'react-icons/gi';
 import { PricingSection, PricingWrapper, PricingHeading, PricingContainer, PricingCard, PricingCardInfo, PricingCardIcon, PricingCardPlan, PricingCardCost, PricingCardLength, PricingCardFeatures, PricingCardFeature } from './Pricing.elements';
 import { Button } from '../../globalStyles';
 
@@ -14,7 +14,7 @@ const Pricing = () => {
             <PricingCard to='/sign-up'> 
               <PricingCardInfo>
                 <PricingCardIcon>
-                  <GiMetalHand />
+                  <GiBlackBar />
                 </PricingCardIcon>
                 <PricingCardPlan>Starter Pack</PricingCardPlan>
                 <PricingCardCost>$99.99</PricingCardCost>
