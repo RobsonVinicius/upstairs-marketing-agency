@@ -1,5 +1,12 @@
 # Upstairs Marketing Agency
 
+Página criada em react utilizando Styled Components 
+
+<br>
+
+<img src="src/images/preview.jpg" align="center" />
+
+
 <br>
 
 ## Dependências
@@ -8,6 +15,9 @@
 + Styled Components
 + React Icons
 
+<br>
+
+## 
 
 ## Getting Started with Create React App
 
