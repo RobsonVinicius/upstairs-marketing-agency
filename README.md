@@ -17,7 +17,29 @@ Página criada em react utilizando Styled Components
 
 <br>
 
-## 
+## Cores Utilizadas
+Elements | Color 1 | Color 2
+------------ | ------------- | ------------ 
+Background: | #fff | #101522
+Buttons: | #FFC312 | #F79F1F
+Titles: | #f7f8fa | #1c2237
+Text: | #f7f8fa | #1c2237
+
+<br>
+
+## Ilustrações
+
+[Undraw](https://undraw.co/)
+
+
+<br>
+
+## Live Demo
+
+https://upstairs-marketing-agency.vercel.app
+
+
+<br>
 
 ## Getting Started with Create React App
 
